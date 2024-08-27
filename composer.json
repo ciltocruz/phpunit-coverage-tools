@@ -1,6 +1,6 @@
 {
-  "name": "robiningelbrecht/phpunit-coverage-tools",
-  "description": "PHPUnit coverage tools",
+  "name": "ciltocruz/phpunit-coverage-tools",
+  "description": "PHPUnit coverage tools fork",
   "keywords": [
     "Testing",
     "PHP",
@@ -11,8 +11,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Robin Ingelbrecht",
-      "email": "ingelbrecht_robin@hotmail.com"
+      "name": "Marcos Muñoz",
+      "email": "ciltocruz@hotmail.com"
     }
   ],
   "require": {
